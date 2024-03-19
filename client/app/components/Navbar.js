@@ -24,7 +24,7 @@ const Navbar = () => {
           </div>
 
           <div className="-mr-2 flex items-center sm:hidden">
-            <button className="bg-blue-500 hover:bg-blue-600 text-white 
+            <button className="bg-blue-800 hover:bg-blue-600 text-white 
                                 font-bold py-2 px-4 rounded-2xl">
                 Login
              </button>
@@ -50,14 +50,14 @@ const Navbar = () => {
                 Home
               </a>
               <a
-                href="#"
+                href="#service"
                 className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
                              px-3 py-2 rounded-md text-md font-bold"
               >
                 Services
               </a>
               <a
-                href="#"
+                href="#mission"
                 className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
                              px-3 py-2 rounded-md text-md font-bold"
               >
@@ -70,7 +70,7 @@ const Navbar = () => {
               >
                 About Us
               </a>
-              <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold 
+              <button className="bg-blue-800 hover:bg-blue-600 text-white font-bold 
                                 py-2 px-4 rounded-2xl">
                 Login
               </button>
