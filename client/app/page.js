@@ -1,6 +1,7 @@
 
 import Landing from './components/Landing'
 import Homepage from './components/Navbar'
+import Service from './components/Service'
 
 
 export default function Home() {
@@ -8,7 +9,7 @@ export default function Home() {
     <div>
       <Homepage/>
       <Landing/>
-
+      <Service/>
     </div>
   )
 }

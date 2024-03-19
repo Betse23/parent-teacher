@@ -54,21 +54,21 @@ const Navbar = () => {
                 className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
                              px-3 py-2 rounded-md text-md font-bold"
               >
+                Services
+              </a>
+              <a
+                href="#"
+                className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
+                             px-3 py-2 rounded-md text-md font-bold"
+              >
+                 Our Mission
+              </a>
+              <a
+                href="#"
+                className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
+                             px-3 py-2 rounded-md text-md font-bold"
+              >
                 About Us
-              </a>
-              <a
-                href="#"
-                className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
-                             px-3 py-2 rounded-md text-md font-bold"
-              >
-                Service
-              </a>
-              <a
-                href="#"
-                className="text-gray-700 hover:text-black lg:hover:text-[#007bff] 
-                             px-3 py-2 rounded-md text-md font-bold"
-              >
-                Our Mission
               </a>
               <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold 
                                 py-2 px-4 rounded-2xl">
@@ -95,14 +95,7 @@ const Navbar = () => {
               className="block text-gray-800 hover:bg-blue-400 hover:text-white px-3 py-2 
                         rounded-md text-base font-bold"
             >
-              About Us
-            </a>
-            <a
-              href="#"
-              className="block text-gray-800 hover:bg-blue-400 hover:text-white px-3 py-2 
-                        rounded-md text-base font-bold"
-            >
-              Service
+              Services
             </a>
             <a
               href="#"
@@ -110,6 +103,13 @@ const Navbar = () => {
                         rounded-md text-base font-bold"
             >
               Our Mission
+            </a>
+            <a
+              href="#"
+              className="block text-gray-800 hover:bg-blue-400 hover:text-white px-3 py-2 
+                        rounded-md text-base font-bold"
+            >
+              About US
             </a>
           </div>
         </div>
