@@ -1,7 +1,11 @@
-import Image from 'next/image'
+
+import Homepage from './components/Navbar'
+
 
 export default function Home() {
   return (
-    <div>Setup the project</div>
+    <div>
+      <Homepage/>
+    </div>
   )
 }
