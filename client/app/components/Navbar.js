@@ -95,6 +95,13 @@ const Navbar = () => {
               className="block text-gray-800 hover:bg-blue-400 hover:text-white px-3 py-2 
                         rounded-md text-base font-bold"
             >
+              About Us
+            </a>
+            <a
+              href="#"
+              className="block text-gray-800 hover:bg-blue-400 hover:text-white px-3 py-2 
+                        rounded-md text-base font-bold"
+            >
               Service
             </a>
             <a
@@ -103,13 +110,6 @@ const Navbar = () => {
                         rounded-md text-base font-bold"
             >
               Our Mission
-            </a>
-            <a
-              href="#"
-              className="block text-gray-800 hover:bg-blue-400 hover:text-white px-3 py-2 
-                        rounded-md text-base font-bold"
-            >
-              Contact
             </a>
           </div>
         </div>
