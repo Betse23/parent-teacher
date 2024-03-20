@@ -24,7 +24,7 @@ const Ourmission = () => {
                 <li>Collaboration.</li>
                 <li>Inclusivity.</li>
                 <li>Excellence.</li>
-                
+      
               </ul>
               
             </div>

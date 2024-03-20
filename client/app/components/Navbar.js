@@ -1,5 +1,6 @@
 "use client"
 import { useState } from 'react';
+import Link from 'next/link'; 
 import { GiHamburgerMenu } from "react-icons/gi";
 
 
@@ -70,10 +71,10 @@ const Navbar = () => {
               >
                 About Us
               </a>
-              <button className="bg-blue-800 hover:bg-blue-600 text-white font-bold 
-                                py-2 px-4 rounded-2xl">
-                Login
-              </button>
+              <Link href="/login" className="bg-blue-800 hover:bg-blue-600 text-white font-bold 
+                                py-2 px-4 rounded-2xl"> 
+                    Login
+              </Link>
             </div>
           </div>
         </div>
