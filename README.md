@@ -23,5 +23,5 @@ The Parent-Teacher Communication and student progress tracking System is a web a
   - JWT for authentication
 
 ## Setup Instructions
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: [`git clone <repository-url>`](https://github.com/Betse23/parent-teacher.git)
 2. Install dependencies:
